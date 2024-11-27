@@ -1,0 +1,86 @@
+body{
+    padding:150px;
+    background-color: #292421;
+}
+.container{
+    max-width: 600px;
+    margin:0 auto;
+    padding:50px;
+    box-shadow: rgba(255, 217, 135, 0.603) 0px 7px 29px 0px;
+}
+
+.container{
+    color: rgb(248, 224, 187); 
+}
+.form-group{
+    margin-bottom:30px;
+}
+.my-button {
+    background-color: #a88035;
+    color: white; 
+    border-radius: 25px; 
+    padding: 15px 32px; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block; 
+    font-size: 16px; 
+    margin: 4px 2px; 
+    cursor: pointer; 
+    transition: background-color 0.3s; 
+}
+
+.my-button:hover {
+    background-color: #a09273; 
+}
+
+
+.cute-button {
+    padding: 15px 25px;
+    background-color: #ac4d16; 
+    color: white; 
+    border: none;
+    border-radius: 25px; 
+    font-size: 16px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: color 0.3s ease, background-color 0.3s ease; 
+}
+
+.cute-button:hover {
+    color: #5e4e32; 
+    background-color: rgb(255, 223, 154);
+}
+
+.googlesheet {
+    padding: 15px 25px;
+    background-color: #2f441d; 
+    color: white; 
+    border: none;
+    border-radius: 25px; 
+    font-size: 16px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: color 0.3s ease, background-color 0.3s ease; 
+}
+
+.googlesheet:hover {
+    color: #ecea7b; 
+    background-color: rgb(68, 59, 39);
+}
+
+.chart {
+    padding: 15px 25px;
+    background-color: #585f2f; 
+    color: white; 
+    border: none;
+    border-radius: 25px; 
+    font-size: 16px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: color 0.3s ease, background-color 0.3s ease; 
+}
+
+.chart:hover {
+    color: #998242; 
+    background-color: rgb(250, 239, 215);
+}

@@ -1,0 +1,48 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 10;
+    padding: 0;
+    background-color: #241f1a;
+}
+
+.container {
+    width: 120%;
+    margin: auto;
+    overflow: hidden;
+    padding: 0;
+}
+
+.header {
+    text-align: center;
+    padding: 10px 0;
+    background: #333;
+    color: #f5f3a2;
+}
+
+.member {
+    background: #a78e4b;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+}
+
+.member img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.portfolio {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.portfolio img {
+    width: 100px;
+    margin: 5px;
+    border-radius: 5px;
+}
